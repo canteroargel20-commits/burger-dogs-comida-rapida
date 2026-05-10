@@ -123,7 +123,7 @@
 
                 {
                     name: "Arepa jamón", price: 8000, img: "https://i.postimg.cc/j5PZ7N9K/arepajamon.jpg",
-                    ingredientes: [ "Jamon", "Papa fosforito", "Queso", "SALSAS", "Tomate", "Piña", "Tartara", "Rosada"]
+                    ingredientes: ["Arepa", "Jamon", "Papa fosforito", "Queso", "SALSAS", "Tomate", "Piña", "Tartara", "Rosada"]
                 },
                 {
                     name: "Arepa carne hilachada", price: 9000, img: "https://i.postimg.cc/8czYT8Bn/arepacarne.jpg",
