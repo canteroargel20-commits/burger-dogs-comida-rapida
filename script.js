@@ -206,7 +206,7 @@
                     ingredientes: ["Papa francesa", "Salchicha", "Lechuga", "Queso", "Papa fosforito", "Queso gratinado", "SALSAS", "Tomate", "Piña", "Tartara", "Rosada"]
                 },
                 {
-                    name: "Salchipapa especial", price: 15000, img: "https://i.postimg.cc/hvcGMHWs/sinimagen-pgn.webp",
+                    name: "Salchipapa especial", price: 15000, img: "https://i.postimg.cc/66nQBN6C/salchipapa15.jpg.webp",
                     ingredientes: ["Papa francesa", "Salchicha", "Butifarra", "Chorizo", "Queso", "Papa fosforito", "Lechuga", "Queso gratinado", "SALSAS", "Tomate", "Piña", "Tartara", "Rosada"]
                 }
             ],
