@@ -154,7 +154,7 @@
                 { name: "Patacón adicional", price: 3000, img: "https://i.postimg.cc/MHCqksrp/adipatacon.png" }
             ],
             bebidas: [
-                { name: "Jugo de corozo", price: 1000, img: "https://i.postimg.cc/htPjFRw7/corozo.jpg" },
+                { name: "Jugo de corozo", price: 2000, img: "https://i.postimg.cc/htPjFRw7/corozo.jpg" },
                 { name: "Gaseosa personal 250 ML", price: 1500, img: "https://i.postimg.cc/HsdGcmVS/postobon-250.jpg" },
                 { name: "Gaseosa personal 400 ML", price: 2000, img: "https://i.postimg.cc/RF411gKN/surtida400ml.webp" }
             ],
